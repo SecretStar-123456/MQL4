@@ -21,4 +21,4 @@ contained herein, but with e.g. missing dependencies).
 
 All code and data contained in the repository is release under the MIT License.
 
-Copyright (c) 2017 tickelton@gmail.com
+Copyright (c) 2017 tomnuguyen119@gmail.com
